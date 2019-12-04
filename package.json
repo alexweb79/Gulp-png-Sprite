@@ -11,7 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-sass": "^4.0.2",
     "gulp.spritesmith": "^6.10.1"
   },
   "dependencies": {},
