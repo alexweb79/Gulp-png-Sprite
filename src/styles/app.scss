@@ -1,0 +1,8 @@
+/*! sprite png v1.0.0 | MIT License | Alexweb | alexweb79.ru */
+@import "common/abstracts/sprite";
+
+
+
+.text {
+    @include sprite($cart-icon);
+}

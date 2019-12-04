@@ -1,0 +1,23 @@
+{
+  "name": "gulp_png_sprite",
+  "version": "1.0.0",
+  "description": "create png sprite whith gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alekweb79",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp.spritesmith": "^6.10.1"
+  },
+  "dependencies": {},
+  "browserslist": [
+    "last 3 version",
+    "> 1%",
+    "IE 10"
+  ]
+}
